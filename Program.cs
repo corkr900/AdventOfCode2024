@@ -2,6 +2,7 @@
 using AdventOfCode2024.Days._02;
 using AdventOfCode2024.Days._03;
 using AdventOfCode2024.Days._04;
+using AdventOfCode2024.Days._05;
 
 namespace AdventOfCode2024 {
 	internal class Program {
@@ -11,7 +12,8 @@ namespace AdventOfCode2024 {
 			//Day02.Do();
 			//Day03.Do();
 			//Day04.Do();
-			Day04P2.Do();
+			//Day04P2.Do();
+			Day05.Do();
 
 			Console.ReadKey();
 		}
